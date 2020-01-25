@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 release_tag=master
 sailr_repo="https://github.com/craicoverflow/sailr/tree/$release_tag"
